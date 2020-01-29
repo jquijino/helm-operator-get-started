@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: jquijino/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-remr1rw3
     replicaCount: 1
     hpa:
       enabled: false
