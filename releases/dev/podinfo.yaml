@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: jquijino/podinfo
-      tag: dev-fapu3ra2
+      tag: dev-sxapne8n
     replicaCount: 1
     hpa:
       enabled: false
