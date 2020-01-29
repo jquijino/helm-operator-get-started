@@ -15,7 +15,7 @@ spec:
     ref: master
   values:
     image:
-      image: jquijino/podinfo:dev-remr1rw3
+      image: jquijino/podinfo:dev-egn8tmam
 #      repository: jquijino/podinfo
 #      tag: dev-remr1rw3
     replicaCount: 1
