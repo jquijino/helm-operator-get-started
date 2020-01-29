@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: jquijino/podinfo
-      tag: dev-dqai1lab
+      tag: dev-d2jxbios
     replicaCount: 1
     hpa:
       enabled: false
