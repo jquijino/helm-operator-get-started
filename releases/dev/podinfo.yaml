@@ -15,8 +15,9 @@ spec:
     ref: master
   values:
     image:
-      repository: jquijino/podinfo
-      tag: dev-remr1rw3
+      image: jquijino/podinfo:dev-remr1rw3
+#      repository: jquijino/podinfo
+#      tag: dev-remr1rw3
     replicaCount: 1
     hpa:
       enabled: false
