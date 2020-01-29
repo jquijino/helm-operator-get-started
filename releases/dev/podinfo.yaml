@@ -15,9 +15,8 @@ spec:
     ref: master
   values:
     image:
-      image: jquijino/podinfo:dev-egn8tmam
-#      repository: jquijino/podinfo
-#      tag: dev-remr1rw3
+      repository: jquijino/podinfo
+      tag: dev-egn8tmam
     replicaCount: 1
     hpa:
       enabled: false
